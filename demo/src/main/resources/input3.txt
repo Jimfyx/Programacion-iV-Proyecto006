@@ -1,0 +1,10 @@
+Julia,Aguirre
+Eduardo,Mendoza
+Marta,Silva
+Enrique,Guzmán
+Natalia,Peña
+Fernando,Campos
+Adriana,León
+Pablo,Paredes
+Carolina,Álvarez
+Raúl,Ibáñez

@@ -1,0 +1,10 @@
+Daniela,Ortega
+Sergio,Delgado
+Carmen,Vázquez
+Miguel,Castillo
+Valeria,Reyes
+Javier,Navarro
+Fernanda,Herrera
+Diego,López
+Patricia,Romero
+Francisco,Castro
